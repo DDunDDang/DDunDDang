@@ -14,6 +14,3 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </div>
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDunDDang&show_icons=true&theme=dark)
